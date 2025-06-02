@@ -1,3 +1,15 @@
+# 📢 DEPRECATION NOTICE 📢  
+----------------------------
+
+🚨 **This repository is no longer maintained.** 🚨 The code in this repository is **deprecated** and may not work with newer dependencies or frameworks.  
+For the most up-to-date implementation and continued development, please visit:  
+
+## ➡️ **[NeuralOperator](https://github.com/neuraloperator/neuraloperator)** ⬅️
+
+🔴 We strongly recommend using the latest version to ensure compatibility, performance, and support.🔴  
+
+----------------------------
+
 # Graph based neural operators
 This repository contains the code for the two following papers:
 - [(GKN) Neural Operator: Graph Kernel Network for Partial Differential Equations](https://arxiv.org/abs/2003.03485)
